@@ -14,6 +14,3 @@
 
 ### :white_check_mark: Acknowledgements
 - `audio_zen` originates directly from [FullsubNet-plus](https://github.com/RookieJunChen/FullSubNet-plus), which we used as a reference for this implementation.
-
-###  :white_check_mark: At Last
-- I hope this dataset splitting method will be helpful to everyone :smiley:.
