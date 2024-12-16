@@ -13,7 +13,7 @@
 - For the mixed environment, where three types of noise are combined, the process differs from adding a single type of noise. The corresponding script is `Add_Noise_Mixed.py`. In this case, there is no need to specify a single noise type, set `noise_dir` to the folder containing all noise categories. Additionally, configure `silence_length` to define the intervals between different noise types (set to 0.1 seconds in our work) and set `snr_range` to the desired SNR range. After configuring these parameters, run the script to generate the noisy data for the mixed noise environment.
 
 ### :white_check_mark: Acknowledgements
-- We referred to [FullsubNet-plus](https://github.com/RookieJunChen/FullSubNet-plus) to implement this.
+- `audio_zen` originates directly from [FullsubNet-plus](https://github.com/RookieJunChen/FullSubNet-plus), which we used as a reference for this implementation.
 
 ###  :white_check_mark: At Last
 - I hope this dataset splitting method will be helpful to everyone :smiley:.
